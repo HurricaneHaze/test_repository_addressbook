@@ -7,7 +7,7 @@ from application import Application
 @pytest.fixture()
 def app(request):
     fixture = Application()
-    request.adddinalizer(fixture.destroy)
+    request.addfinalizer(fixture.destroy)
     return fixture
 
 
@@ -22,3 +22,6 @@ def test_add_empty_group(app):
     app.create_group(name="", header="", footer="")
     app.logout()
 
+
+if __name__ == '__main__':
+    pytest.main()

@@ -1,5 +1,5 @@
 # *-* coding: utf-8 *-*
-from selenium.webdriver.android.webdriver import WebDriver
+from selenium.webdriver.chrome.webdriver import WebDriver
 
 
 class Application:
