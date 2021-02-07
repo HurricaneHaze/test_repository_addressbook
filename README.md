@@ -1,2 +1,2 @@
 # test_repository
-trial,study,sample.
+Repository for Python training
