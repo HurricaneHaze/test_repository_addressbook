@@ -1,4 +1,4 @@
 # test_repository
 Repository for Python training. 
-addressbook application 
+addressbook application.
 pytest, selenium
