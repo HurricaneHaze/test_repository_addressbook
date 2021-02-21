@@ -7,10 +7,10 @@ jsonpickle==2.0.0
 mysql-connector-python==8.0.23
 packaging==20.9
 pluggy==0.13.1
-pony==0.7.14
+pony==0.7.10
 protobuf==3.14.0
 py==1.10.0
-PyMySQL==1.0.2
+PyMySQL==0.6.6
 pyparsing==2.4.7
 pytest==6.2.2
 selenium==3.141.0
