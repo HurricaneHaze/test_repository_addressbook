@@ -7,7 +7,7 @@ iniconfig==1.1.1
 jsonpickle==2.0.0
 Mako==1.1.4
 MarkupSafe==1.1.1
-mysql-connector-python==8.0.5
+mysql-connector-python==8.0.14
 packaging==20.9
 parse==1.19.0
 parse-type==0.5.2
